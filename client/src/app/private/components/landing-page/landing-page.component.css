@@ -1,0 +1,16 @@
+.cityTable {
+  height: auto;
+  max-height: 700px;
+  overflow-x: hidden;
+}
+
+.scrollable-menu {
+  height: auto;
+  max-height: 700px;
+  overflow-x: hidden;
+  width: 100px;
+}
+
+.city:hover {
+  background-color: azure;
+}
